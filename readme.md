@@ -11,6 +11,15 @@ For a sample proxy service that illustrates how to work with endpoints, see Samp
 
 | Operation | Description |
 | --- | --- |
-| createEndpoint | List all *new or modified* files |
-| deleteEndpoint| Show file differences that **haven't been** staged |
-| getEndpointAttributes | rrfrfrfrfrfrfrfr |
+| createEndpoint | Creates an endpoint.|
+| deleteEndpoint| Deletes an endpoint. |
+| getEndpointAttributes | Retrieves the endpoint attributes. |
+| getSubscriptionAttributes| Returns all of the properties of a subscription. |
+| listEndpoint| Lists endpoints. |
+| listSubscriptions | Lists subscriptions. |
+| setEndpointAttributes | Sets the attributes for an endpoint. |
+| setSubscriptionAttributes | Allows a subscription owner to set an attribute of the topic to a new value.|
+| subscribe | Subscribes to an endpoint. |
+| unsubscribe | unsubscribe	Deletes a subscription.|
+
+
