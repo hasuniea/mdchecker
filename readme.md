@@ -9,7 +9,8 @@ The following operations allow you to work with endpoints. Click an operation na
 For a sample proxy service that illustrates how to work with endpoints, see Sample configuration.
 
 
-| Command | Description |
+| Operation | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| createEndpoint | List all *new or modified* files |
+| deleteEndpoint| Show file differences that **haven't been** staged |
+| getEndpointAttributes | rrfrfrfrfrfrfrfr |
